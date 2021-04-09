@@ -1,28 +1,98 @@
-# TypeScript & Styled Components Next.js example
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Nextjs Youtube Api" />
 
-This is a really simple project that show the usage of Next.js with TypeScript and Styled Components.
+  &#xa0;
 
-## Deploy your own
+  <!-- <a href="https://nextjsyoutubeapi.netlify.app">Demo</a> -->
+</div>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+<h1 align="center">Nextjs Youtube Api</h1>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-typescript-styled-components&project-name=with-typescript-styled-components&repository-name=with-typescript-styled-components)
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/tgmarinho/nextjs-youtube-api?color=56BEB8">
 
-## How to use it?
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/tgmarinho/nextjs-youtube-api?color=56BEB8">
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nextjs-youtube-api?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/tgmarinho/nextjs-youtube-api?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/tgmarinho/nextjs-youtube-api?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/tgmarinho/nextjs-youtube-api?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/tgmarinho/nextjs-youtube-api?color=56BEB8" /> -->
+</p>
+
+<!-- Status -->
+
+<!-- <h4 align="center"> 
+	🚧  Nextjs Youtube Api 🚀 Under construction...  🚧
+</h4> 
+
+<hr> -->
+
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/tgmarinho" target="_blank">Author</a>
+</p>
+
+<br>
+
+## :dart: About ##
+
+Describe your project
+
+## :sparkles: Features ##
+
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
+
+## :rocket: Technologies ##
+
+The following tools were used in this project:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
+## :white_check_mark: Requirements ##
+
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+
+## :checkered_flag: Starting ##
 
 ```bash
-npx create-next-app --example with-typescript-styled-components with-typescript-styled-components-app
-# or
-yarn create next-app --example with-typescript-styled-components with-typescript-styled-components-app
+# Clone this project
+$ git clone https://github.com/tgmarinho/nextjs-youtube-api
+
+# Access
+$ cd nextjs-youtube-api
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn start
+
+# The server will initialize in the <http://localhost:3000>
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## :memo: License ##
 
-## Notes
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-This is an amalgamation of the 2 existing examples:
 
-- [with-typescript](https://github.com/vercel/next.js/tree/canary/examples/with-typescript)
-- [with-styled-components](https://github.com/vercel/next.js/tree/canary/examples/with-styled-components)
+Made with :heart: by <a href="https://github.com/tgmarinho" target="_blank">Thiago Marinho</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
